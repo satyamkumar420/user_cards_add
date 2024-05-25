@@ -23,9 +23,15 @@ Welcome to the User Cards Web Application! This project displays user cards and 
 
 Basic structure for the home page with a navbar linking to the home and cart pages.
 
+![image](https://github.com/satyamkumar420/user_cards_add/assets/98641231/60e44cac-4edb-4509-9555-3aad1b1742ac)
+
+
 ### `cart.html`
 
 Basic structure for the cart page with a navbar linking to the home and cart pages.
+
+![image](https://github.com/satyamkumar420/user_cards_add/assets/98641231/19e16f85-8417-41c4-99ba-9ebb7136ab52)
+
 
 ### `style.css`
 
